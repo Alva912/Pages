@@ -1,0 +1,17 @@
+theme: minima
+title: Notes
+description: Keep Calm & Code
+
+navigation:
+- text: NAV
+  internal: true
+  url: ./
+- text: EXIFTOOL NOTES
+  internal: true
+  url: exiftool-notes
+- text: FFMPEG MPV NOTES
+  internal: true
+  url: ffmpeg-mpv-notes
+- text: SUBS NOTES
+  internal: true
+  url: subs-notes
